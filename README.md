@@ -15,6 +15,7 @@ ionic start <project-name>
 ```
   cd <your project folder>
   ```
+## Serving the app on localhost
   ```
   ionic serve 
   ```
